@@ -1,9 +1,9 @@
-# 🛒 Synthetic E-Commerce Data Analysis Project
+#  Synthetic E-Commerce Data Analysis Project
 
-## 📋 Overview
+##  Overview
 An end-to-end data analysis workflow utilizing Python to clean raw synthetic transaction registries, evaluate customer age distributions, and break down preferred localized payment strategies.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas (Data manipulation), Matplotlib (Data Visualization)
 
